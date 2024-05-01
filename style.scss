@@ -46,8 +46,7 @@
                 color: white;
             }
             .accordion.active {
-                background-color: rgb(9, 70, 70);
-                color: white;
+                text-decoration: underline;
                 transition: .3s all ease-in;
             }
             .panel {

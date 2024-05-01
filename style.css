@@ -48,8 +48,7 @@
   color: white;
 }
 * body .accordion_section .accordion.active {
-  background-color: rgb(9, 70, 70);
-  color: white;
+  text-decoration: underline;
   transition: 0.3s all ease-in;
 }
 * body .accordion_section .panel {
