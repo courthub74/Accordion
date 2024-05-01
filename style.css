@@ -9,7 +9,7 @@
 }
 * body .accordion_section {
   background-color: darkslategrey;
-  height: 100vh;
+  height: 200vh;
   width: 60%;
   display: flex;
   flex-direction: column;
