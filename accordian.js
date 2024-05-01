@@ -5,6 +5,7 @@
 let accord = document.getElementsByClassName('accordion');
 var i;
 
+
 // lets iterate through the accordions
 for (i = 0; i < accord.length; i++) {
     // add event listener to each iteration
